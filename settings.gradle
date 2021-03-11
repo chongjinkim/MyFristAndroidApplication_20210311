@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "MyFristAndroidApplication_20210311"
